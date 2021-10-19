@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKnjiga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Knjiga>
+    <KnjigaId>33772</KnjigaId>
+    <Naziv>Knjiga 2</Naziv>
+    <Autor>
+      <Ime>Jovana</Ime>
+      <Prezime>C</Prezime>
+      <AutorId>1864402996</AutorId>
+      <Godiste>1836</Godiste>
+    </Autor>
+    <GodinaIzdanja>1998</GodinaIzdanja>
+    <Zanrovi>
+      <string>zanr2</string>
+      <string>zanr5</string>
+    </Zanrovi>
+    <Ocene>
+      <int>1</int>
+      <int>1</int>
+      <int>2</int>
+    </Ocene>
+  </Knjiga>
+  <Knjiga>
+    <KnjigaId>36259</KnjigaId>
+    <Naziv>Knjga 1</Naziv>
+    <Autor>
+      <Ime>Jovana</Ime>
+      <Prezime>B</Prezime>
+      <AutorId>1814442534</AutorId>
+      <Godiste>1897</Godiste>
+    </Autor>
+    <GodinaIzdanja>1990</GodinaIzdanja>
+    <Zanrovi>
+      <string>zanr 1</string>
+      <string>zanr2</string>
+    </Zanrovi>
+    <Ocene>
+      <int>5</int>
+      <int>1</int>
+      <int>1</int>
+      <int>2</int>
+    </Ocene>
+  </Knjiga>
+  <Knjiga>
+    <KnjigaId>9567</KnjigaId>
+    <Naziv>Knjiga 3</Naziv>
+    <Autor>
+      <Ime>Jovana</Ime>
+      <Prezime>S</Prezime>
+      <AutorId>689484667</AutorId>
+      <Godiste>1893</Godiste>
+    </Autor>
+    <GodinaIzdanja>1992</GodinaIzdanja>
+    <Zanrovi>
+      <string>zarn4</string>
+    </Zanrovi>
+    <Ocene>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+    </Ocene>
+  </Knjiga>
+  <Knjiga>
+    <KnjigaId>73612</KnjigaId>
+    <Naziv>Knjiga 6</Naziv>
+    <Autor>
+      <Ime>Jovana</Ime>
+      <Prezime>s</Prezime>
+      <AutorId>857836963</AutorId>
+      <Godiste>1704</Godiste>
+    </Autor>
+    <GodinaIzdanja>1992</GodinaIzdanja>
+    <Zanrovi>
+      <string>zanr2</string>
+    </Zanrovi>
+    <Ocene>
+      <int>5</int>
+      <int>4</int>
+      <int>4</int>
+    </Ocene>
+  </Knjiga>
+  <Knjiga>
+    <KnjigaId>22911</KnjigaId>
+    <Naziv>Knjiga 5</Naziv>
+    <Autor>
+      <Ime>asda</Ime>
+      <Prezime />
+      <AutorId>1298798091</AutorId>
+      <Godiste>1986</Godiste>
+    </Autor>
+    <GodinaIzdanja>123</GodinaIzdanja>
+    <Zanrovi>
+      <string>sda</string>
+    </Zanrovi>
+    <Ocene>
+      <int>5</int>
+      <int>5</int>
+    </Ocene>
+  </Knjiga>
+</ArrayOfKnjiga>
