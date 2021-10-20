@@ -1,0 +1,12 @@
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\bin\Debug\net5.0\ProdavnicaPCL.deps.json
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\bin\Debug\net5.0\ProdavnicaPCL.dll
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\bin\Debug\net5.0\ref\ProdavnicaPCL.dll
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\bin\Debug\net5.0\ProdavnicaPCL.pdb
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ProdavnicaPCL.csproj.AssemblyReference.cache
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ProdavnicaPCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ProdavnicaPCL.AssemblyInfoInputs.cache
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ProdavnicaPCL.AssemblyInfo.cs
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ProdavnicaPCL.csproj.CoreCompileInputs.cache
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ProdavnicaPCL.dll
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ref\ProdavnicaPCL.dll
+C:\Users\Mac\source\repos\ProdavnicaPCL\ProdavnicaPCL\obj\Debug\net5.0\ProdavnicaPCL.pdb

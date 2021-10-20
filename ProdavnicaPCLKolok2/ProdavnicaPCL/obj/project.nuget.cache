@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4YCeUc38gOYsLLnT2MHWjqP8i8RRuC+cAWaisSE3UaL0nyaS5Q3ucPoPUj1b35MknL85kLWZEk0v6iR15v2WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mac\\source\\repos\\ProdavnicaPCL\\ProdavnicaPCL\\ProdavnicaPCL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mac\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mac\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mac\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mac\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mac\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mac\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
